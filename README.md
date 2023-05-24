@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shpHigashi
-- 👀 I’m interested in Valorant.
+- 👀 I’m interested in KAMITSUBAKI STUDIO.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
