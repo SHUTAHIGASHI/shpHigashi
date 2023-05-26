@@ -1,8 +1,21 @@
 - 👋 Hi, I’m @shpHigashi
 - 👀 I’m interested in KAMITSUBAKI STUDIO.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- My Twitter
+- program -> @ShpGashi_4
+- Game -> @Shpi_rirn
+
+ 観測者花芽組
+- 💙 @RIM_virtual
+- 💖 @virtual_kaf
+
+- 🎮 Games
+- Destiny2
+- VALORANT
+- APEX LEGENDS
+- Warframe
+- Rainbow Six Siege
 
 <!---
 shpHigashi/shpHigashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
