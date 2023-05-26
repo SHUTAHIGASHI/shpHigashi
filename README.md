@@ -1,3 +1,4 @@
+Shpi / しゅぴ
 - 👋 Hi, I’m @shpHigashi
 - 👀 I’m interested in KAMITSUBAKI STUDIO.
 - 🌱 I’m currently learning C++.
@@ -9,6 +10,7 @@
  観測者花芽組
 - 💙 @RIM_virtual
 - 💖 @virtual_kaf
+- V.W.P , CIEL , Albemuth , VALIS  etc...
 
  🎮 Games
 - Destiny2
