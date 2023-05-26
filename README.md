@@ -2,7 +2,7 @@
 - 👀 I’m interested in KAMITSUBAKI STUDIO.
 - 🌱 I’m currently learning C++.
 
-- My Twitter
+ My Twitter
 - program -> @ShpGashi_4
 - Game -> @Shpi_rirn
 
@@ -10,7 +10,7 @@
 - 💙 @RIM_virtual
 - 💖 @virtual_kaf
 
-- 🎮 Games
+ 🎮 Games
 - Destiny2
 - VALORANT
 - APEX LEGENDS
