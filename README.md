@@ -7,10 +7,13 @@ Shpi / しゅぴ
 - program -> @ShpGashi_4
 - Game -> @Shpi_rirn
 
- 観測者花芽組
+ 観測者花芽組ヴァンデラー
 - 💙 @RIM_virtual
 - 💖 @virtual_kaf
-- V.W.P , CIEL , Albemuth , VALIS  etc...
+- 🎪 @VALIS_Official
+- 🐱 @VALIS_CHINO @VALIS_MYU @VALIS_NEFFY
+- 😻 @VALIS_NINA @VALIS_RARA @VALIS_VITTE
+- V.W.P , CIEL , Albemuth  etc...
 
  🎮 Games
 - Destiny2
