@@ -5,7 +5,8 @@ Shpi / しゅぴ
 
  My Twitter
 - program -> @ShpGashi_4
-- Game -> @Shpi_rirn
+- Game -> @Shpiesta
+- OTAKU -> @Shpitsubaki
 
  観測者花芽組ヴァンデラー
 - 💙 @RIM_virtual
